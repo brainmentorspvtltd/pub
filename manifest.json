@@ -2,7 +2,7 @@
     "short_name": "Shop React App",
     "name": "Shop React App Sample",
     "icons": [{
-        "src": "/images/icons/logo.png",
+        "src": "logo.png",
         "type": "image/png",
         "sizes": "144x144"
     }],
