@@ -2,10 +2,21 @@
     "short_name": "Shop React App",
     "name": "Shop React App Sample",
     "icons": [{
-        "src": "logo.png",
-        "type": "image/png",
-        "sizes": "144x144"
-    }],
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "Icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "Icon-51.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
     "start_url": ".",
     "display": "standalone",
     "theme_color": "#000000",
